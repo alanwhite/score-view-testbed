@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<score>
+  <properties>
+    <software name="Drum Score Editor (c) Alan White 2012 - 2019" version="2.91">
+      <licence type="Studio Edition"/>
+    </software>
+    <movement-title>The Caledonian Society Of London</movement-title>
+    <author>Alan White / Steven McWhirter</author>
+    <tune-type>Strathspey</tune-type>
+    <version>15</version>
+    <last-updated timestamp="1541251461854" translates-as="Sat Nov 03 13:24:21 GMT 2018"/>
+    <band>Solo</band>
+    <defaults>
+      <zoom>0.75</zoom>
+      <font>Serif</font>
+      <font-size>12</font-size>
+      <unison paint-under="false" unison-colour="-256" unison-opacity="0.33000001311302185" use-colour="true" use-line="false"/>
+      <smart-space>true</smart-space>
+      <show-side-drum>true</show-side-drum>
+      <show-tenor-drum>true</show-tenor-drum>
+      <roll-tie-below-accent>true</roll-tie-below-accent>
+      <irregular-groups-below>true</irregular-groups-below>
+      <tie-irregular-groups>true</tie-irregular-groups>
+      <thin-unison-pen>false</thin-unison-pen>
+      <auto-beam>true</auto-beam>
+      <layout-policy>AmortizeAcrossBar</layout-policy>
+      <music-format>DrumScoreEditor</music-format>
+      <fill-music-area>false</fill-music-area>
+      <staff-padding>-10</staff-padding>
+      <pen0>-16776961</pen0>
+      <pen1>-16711681</pen1>
+      <pen2>-4144960</pen2>
+      <pen3>-14336</pen3>
+      <pen4>-16711936</pen4>
+      <pen5>-20561</pen5>
+      <join-highlights>false</join-highlights>
+      <use-font>true</use-font>
+      <stem-length>4.118</stem-length>
+      <bar-height>5</bar-height>
+      <thin-secondary-beams>false</thin-secondary-beams>
+    </defaults>
+    <time-signature bottom="4" top="4" use-common="false"/>
+    <bars-per-part>8</bars-per-part>
+    <beats-per-minute>76</beats-per-minute>
+    <page-format>
+      <page-size height="842.0" width="595.0"/>
+      <orientation>Landscape</orientation>
+      <watermark opacity="0.05000000074505806" show="true" size="64">Copyright (c) Alan R. White 2017</watermark>
+    </page-format>
+  </properties>
+  <text-area id="">
+    <text align="centre">THE CALEDONIAN SOCIETY OF LONDON</text>
+    <font>Hill House</font>
+    <font-size>20</font-size>
+    <style bold="false" italic="false" underline="false"/>
+    <bounds height="48" page="1" width="344" x="246" y="18"/>
+    <exact-bounds height="47.25" page="1" width="343.5" x="246.00000000000003" y="18.75"/>
+  </text-area>
+  <text-area id="">
+    <text align="left">Strathspey</text>
+    <font>Serif</font>
+    <font-size>10</font-size>
+    <style bold="false" italic="false" underline="false"/>
+    <bounds height="49" page="1" width="130" x="69" y="23"/>
+    <exact-bounds height="48.75" page="1" width="129.75" x="69.0" y="23.25"/>
+  </text-area>
+  <text-area id="">
+    <text align="left">%author</text>
+    <font>Serif</font>
+    <font-size>10</font-size>
+    <style bold="false" italic="false" underline="false"/>
+    <bounds height="47" page="1" width="343" x="37" y="549"/>
+    <exact-bounds height="46.66666666666667" page="1" width="342.6666666666666" x="37.33333333333333" y="549.3333333333334"/>
+  </text-area>
+  <text-area id="">
+    <text align="right">16th Oct 2018</text>
+    <font>Serif</font>
+    <font-size>10</font-size>
+    <style bold="false" italic="false" underline="false"/>
+    <bounds height="47" page="1" width="130" x="672" y="549"/>
+    <exact-bounds height="46.66666666666667" page="1" width="129.33333333333334" x="672.0" y="549.3333333333334"/>
+  </text-area>
+  <image id="" key="94A00759D1BAFE9F152BAC7D3E81306C">
+    <bounds height="82" page="1" width="82" x="718" y="2"/>
+    <exact-bounds height="81.0" page="1" width="81.0" x="718.3125" y="2.8125"/>
+  </image>
+  <manuscript force-distribution="false" id="generated-single-music-area" lines-visible="true" point-size="16.0">
+    <bounds height="483" page="1" width="766" x="36" y="66"/>
+    <exact-bounds height="482.25000000000006" page="1" width="765.0" x="36.75" y="66.0"/>
+    <staff>
+      <bar-line type="double-open">
+        <location xpercent="0.0" y="0.0"/>
+      </bar-line>
+      <note dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.006958831353966457" y="0.0"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.05736071285607726" y="0.0"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.07216032192857122" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.11655914914605309" y="0.0"/>
+      </note>
+      <note dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.12330822402527122" y="0.0"/>
+      </note>
+      <note grace-note="drag" hand="right" value="semiquaver">
+        <location xpercent="0.16567734456221833" y="0.0"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.19055719450852288" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.20042360055685216" y="0.0"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.21029000660518146" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.22015641265351074" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.2300228187018401" y="0.0"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="0.0"/>
+      </bar-line>
+      <note accent="full" dot="true" grace-note="flam" hand="left" value="quaver">
+        <location xpercent="0.2521779548282801" y="0.0"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.3035918881272748" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="0.0"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.33879990691089784" y="0.0"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3488385339134432" y="0.0"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.37903764266360984" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.3890970766017879" y="0.0"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.39915651053996587" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.4092159444781438" y="0.0"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.41927537841632184" y="0.0"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.4393942462926779" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.4595131141690339" y="0.0"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4796319820453899" y="0.0"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="0.0"/>
+      </bar-line>
+      <note buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.5083244354054738" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.5535918881272748" y="0.0"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.5686810390345418" y="0.0"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.6139484917563429" y="0.0"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.6290376426636098" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6491565105399659" y="0.0"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.669275378416322" y="0.0"/>
+      </note>
+      <note accent="light" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.709513114169034" y="0.0"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7195517411715794" y="0.0"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="0.0"/>
+      </bar-line>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.7582989373986455" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7683240552685114" y="0.0"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7783491731383773" y="0.0"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7883742910082432" y="0.0"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.798399408878109" y="0.0"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8184496446178406" y="0.0"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <location xpercent="0.828419639483762" y="0.0"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8585501160973041" y="0.0"/>
+      </note>
+      <note grace-note="flam" hand="left" value="crotchet">
+        <location xpercent="0.8705498176437602" y="0.0"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="crotchet">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-1" group-level="1" type="start"/>
+        <location xpercent="0.9387510590562311" y="0.0"/>
+      </note>
+      <bar-line type="single">
+        <location location-policy="right" xpercent="1.0" y="0.0"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="single">
+        <location xpercent="0.0" y="67.23217486847875"/>
+      </bar-line>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.008324435405473745" y="67.23217486847875"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.05359188812727479" y="67.23217486847875"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.0686810390345418" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.11394849175634283" y="67.23217486847875"/>
+      </note>
+      <note dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.12098710847033402" y="67.23217486847875"/>
+      </note>
+      <note grace-note="drag" hand="right" value="semiquaver">
+        <location xpercent="0.1642248545116003" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.1893942462926779" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.1994536802308559" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.20951311416903393" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.21957254810721188" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.2296319820453899" y="67.23217486847875"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="67.23217486847875"/>
+      </bar-line>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.2521779548282801" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.27844330328182976" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.2985621711581858" y="67.23217486847875"/>
+      </note>
+      <note grace-note="flam" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.310630504841266" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.3287404729727198" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.33879990691089784" y="67.23217486847875"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3589187747872538" y="67.23217486847875"/>
+      </note>
+      <note dot="true" hand="left" value="quaver">
+        <location xpercent="0.37903764266360984" y="67.23217486847875"/>
+      </note>
+      <note grace-note="rough" hand="left" value="semiquaver">
+        <location xpercent="0.40882941066376793" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="crotchet">
+        <location xpercent="0.4393942462926779" y="67.23217486847875"/>
+      </note>
+      <note grace-note="swiss" hand="left" value="floatingswiss">
+        <location xpercent="0.48427516520010294" y="67.23217486847875"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="67.23217486847875"/>
+      </bar-line>
+      <note accent="full" dot="true" hand="left" value="quaver">
+        <location xpercent="0.5083244354054738" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5535918881272748" y="67.23217486847875"/>
+      </note>
+      <note grace-note="flam" hand="right" value="semiquaver">
+        <location xpercent="0.560630504841266" y="67.23217486847875"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.5837701899418088" y="67.23217486847875"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6743050953854108" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="67.23217486847875"/>
+      </note>
+      <note grace-note="drag" hand="left" value="quaver">
+        <location xpercent="0.6994328732952233" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7296319820453899" y="67.23217486847875"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="67.23217486847875"/>
+      </bar-line>
+      <note accent="full" dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.7521779548282801" y="67.23217486847875"/>
+      </note>
+      <note accent="full" grace-note="swiss" hand="left" value="semiquaver">
+        <location xpercent="0.7869242312945152" y="67.23217486847875"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <text-tag distance="28.0" font="Serif" font-size="12.0">pp</text-tag>
+        <location xpercent="0.8171480509861838" y="67.23217486847875"/>
+      </note>
+      <note accent="full" buzz="true" grace-note="swiss" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.845916771174618" y="67.23217486847875"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.8761405908662867" y="67.23217486847875"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.895804770826321" y="67.23217486847875"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.9154689507863554" y="67.23217486847875"/>
+      </note>
+      <note accent="full" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.9351331307463897" y="67.23217486847875"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.954797310706424" y="67.23217486847875"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9744614906664584" y="67.23217486847875"/>
+      </note>
+      <bar-line type="double-close">
+        <location location-policy="right" xpercent="1.0" y="67.23217486847875"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="double-open">
+        <location xpercent="0.0" y="134.4643497369575"/>
+      </bar-line>
+      <note buzz="true" hand="right" roll-strikes="2" value="crotchet">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.012961885638595379" y="134.4643497369575"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.07216032192857122" y="134.4643497369575"/>
+      </note>
+      <note grace-note="drag" hand="right" value="semiquaver">
+        <location xpercent="0.10647890827224249" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.13135875821854706" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.14122516426687637" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.15109157031520565" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.16095797636353495" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.17082438241186423" y="134.4643497369575"/>
+      </note>
+      <note dot="true" hand="left" value="quaver">
+        <location xpercent="0.19055719450852288" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.23495602172600474" y="134.4643497369575"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="134.4643497369575"/>
+      </bar-line>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <tie group-factor="0" group-level="1" type="start"/>
+        <location xpercent="0.25832443540547373" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.27844330328182976" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.2985621711581858" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.33879990691089784" y="134.4643497369575"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.3589187747872538" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.37903764266360984" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.3890970766017879" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.39915651053996587" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.4092159444781438" y="134.4643497369575"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.41927537841632184" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.4393942462926779" y="134.4643497369575"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.4595131141690339" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4796319820453899" y="134.4643497369575"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="134.4643497369575"/>
+      </bar-line>
+      <note buzz="true" hand="right" roll-strikes="2" value="crotchet">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-1" group-level="1" type="start"/>
+        <location xpercent="0.5083244354054738" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.5686810390345418" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.6139484917563429" y="134.4643497369575"/>
+      </note>
+      <note buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="2" type="start"/>
+        <location xpercent="0.6290376426636098" y="134.4643497369575"/>
+      </note>
+      <note accent="full" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6491565105399659" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="2" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.669275378416322" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="crotchet">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="134.4643497369575"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="134.4643497369575"/>
+      </bar-line>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="2" type="start"/>
+        <location xpercent="0.7582989373986455" y="134.4643497369575"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7783491731383773" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="2" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.798399408878109" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.8184496446178406" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.8635626750322372" y="134.4643497369575"/>
+      </note>
+      <note buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="2" type="start"/>
+        <location xpercent="0.8786003518370359" y="134.4643497369575"/>
+      </note>
+      <note accent="full" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8986505875767675" y="134.4643497369575"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="2" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.9187008233164993" y="134.4643497369575"/>
+      </note>
+      <note accent="full" dot="true" hand="right" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9387510590562311" y="134.4643497369575"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.9838640894706274" y="134.4643497369575"/>
+      </note>
+      <bar-line type="single">
+        <location location-policy="right" xpercent="1.0" y="134.4643497369575"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="single">
+        <location xpercent="0.0" y="201.69652460543625"/>
+      </bar-line>
+      <note buzz="true" hand="right" roll-strikes="2" value="crotchet">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.008324435405473745" y="201.69652460543625"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.0686810390345418" y="201.69652460543625"/>
+      </note>
+      <note grace-note="drag" hand="right" value="semiquaver">
+        <location xpercent="0.10386825088253224" y="201.69652460543625"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.12903764266360984" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.13909707660178783" y="201.69652460543625"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.14915651053996584" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.15921594447814386" y="201.69652460543625"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.16927537841632184" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="crotchet">
+        <location xpercent="0.18939424629267787" y="201.69652460543625"/>
+      </note>
+      <note grace-note="swiss" hand="left" value="floatingswiss">
+        <location xpercent="0.23427516520010294" y="201.69652460543625"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="201.69652460543625"/>
+      </bar-line>
+      <note dot="true" hand="left" value="quaver">
+        <location xpercent="0.25832443540547373" y="201.69652460543625"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="right" value="semiquaver">
+        <location xpercent="0.29554135393399894" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="201.69652460543625"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="left" value="quaver">
+        <location xpercent="0.330749372717622" y="201.69652460543625"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3589187747872538" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.37903764266360984" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.3890970766017879" y="201.69652460543625"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.39915651053996587" y="201.69652460543625"/>
+      </note>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.41122484422304606" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-1" group-level="1" type="start"/>
+        <location xpercent="0.4393942462926779" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.4846616990144789" y="201.69652460543625"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="201.69652460543625"/>
+      </bar-line>
+      <note accent="full" dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.50217795482828" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5535918881272748" y="201.69652460543625"/>
+      </note>
+      <note grace-note="flam" hand="right" value="semiquaver">
+        <location xpercent="0.560630504841266" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.5837701899418088" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6743050953854108" y="201.69652460543625"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="201.69652460543625"/>
+      </note>
+      <note grace-note="drag" hand="left" value="quaver">
+        <location xpercent="0.6994328732952233" y="201.69652460543625"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7296319820453899" y="201.69652460543625"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="201.69652460543625"/>
+      </bar-line>
+      <note accent="full" dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.7521779548282801" y="201.69652460543625"/>
+      </note>
+      <note accent="full" grace-note="swiss" hand="left" value="semiquaver">
+        <location xpercent="0.7869242312945152" y="201.69652460543625"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <text-tag distance="28.0" font="Serif" font-size="12.0">pp</text-tag>
+        <location xpercent="0.8171480509861838" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" grace-note="swiss" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.845916771174618" y="201.69652460543625"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.8761405908662867" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.895804770826321" y="201.69652460543625"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.9154689507863554" y="201.69652460543625"/>
+      </note>
+      <note accent="full" hand="left" value="crotchet">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9351331307463897" y="201.69652460543625"/>
+      </note>
+      <bar-line type="double-close">
+        <location location-policy="right" xpercent="1.0" y="201.69652460543625"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="double-open">
+        <location xpercent="0.0" y="268.928699473915"/>
+      </bar-line>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.012961885638595379" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.05736071285607726" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.07216032192857122" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.11655914914605309" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.13135875821854706" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.17575758543602893" y="268.928699473915"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.19055719450852288" y="268.928699473915"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.21029000660518152" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.23002281870184016" y="268.928699473915"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="268.928699473915"/>
+      </bar-line>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <tie group-factor="0" group-level="1" type="start"/>
+        <location xpercent="0.25832443540547373" y="268.928699473915"/>
+      </note>
+      <note buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <location xpercent="0.27844330328182976" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.2985621711581858" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.36394849175634286" y="268.928699473915"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.37903764266360984" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3991565105399659" y="268.928699473915"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.4192753784163219" y="268.928699473915"/>
+      </note>
+      <note accent="full" dot="true" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4393942462926779" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.4846616990144789" y="268.928699473915"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="268.928699473915"/>
+      </bar-line>
+      <note buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-2" group-level="1" type="start"/>
+        <location xpercent="0.5083244354054738" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.5535918881272748" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.5686810390345418" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.5887999069108978" y="268.928699473915"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.5988385339134432" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="268.928699473915"/>
+      </note>
+      <note grace-note="drag" hand="left" value="quaver">
+        <location xpercent="0.6390762696661553" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.669275378416322" y="268.928699473915"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.681343712099402" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.709513114169034" y="268.928699473915"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7195517411715794" y="268.928699473915"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="268.928699473915"/>
+      </bar-line>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.7582989373986455" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7683240552685114" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7783491731383773" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7883742910082432" y="268.928699473915"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.798399408878109" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8184496446178406" y="268.928699473915"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <location xpercent="0.828419639483762" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8585501160973041" y="268.928699473915"/>
+      </note>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8705498176437602" y="268.928699473915"/>
+      </note>
+      <rest value="quaver">
+        <location xpercent="0.8986505875767675" y="268.928699473915"/>
+      </rest>
+      <note grace-note="flam" hand="left" value="semiquaver">
+        <location xpercent="0.9106502891232235" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9287259411863652" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.938751059056231" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.9487761769260968" y="268.928699473915"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.9588012947959627" y="268.928699473915"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9788515305356945" y="268.928699473915"/>
+      </note>
+      <bar-line type="single">
+        <location location-policy="right" xpercent="1.0" y="268.928699473915"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="single">
+        <location xpercent="0.0" y="336.16087434239375"/>
+      </bar-line>
+      <note accent="full" buzz="true" dot="true" grace-note="flam" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.00217795482828006" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.05359188812727479" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.0686810390345418" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.11394849175634283" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.12903764266360984" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.1743050953854109" y="336.16087434239375"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.1893942462926779" y="336.16087434239375"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.20951311416903393" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.22963198204538995" y="336.16087434239375"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="336.16087434239375"/>
+      </bar-line>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="3" group-level="0" type="start"/>
+        <tie group-factor="0" group-level="1" type="start"/>
+        <location xpercent="0.25832443540547373" y="336.16087434239375"/>
+      </note>
+      <note buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <location xpercent="0.27844330328182976" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.2985621711581858" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" dot="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.36394849175634286" y="336.16087434239375"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="1" type="start"/>
+        <location xpercent="0.37903764266360984" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3991565105399659" y="336.16087434239375"/>
+      </note>
+      <note accent="full" buzz="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.4192753784163219" y="336.16087434239375"/>
+      </note>
+      <note accent="full" dot="true" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4393942462926779" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.4846616990144789" y="336.16087434239375"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="336.16087434239375"/>
+      </bar-line>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.50217795482828" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5284433032818298" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5385027372200077" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5485621711581858" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.5586216050963638" y="336.16087434239375"/>
+      </note>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.5686810390345418" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5787404729727198" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5887999069108978" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5988593408490759" y="336.16087434239375"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6051276008626106" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.6390970766017878" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.6491565105399659" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.6592159444781439" y="336.16087434239375"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6692753784163219" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.7095131141690338" y="336.16087434239375"/>
+      </note>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7215814478521142" y="336.16087434239375"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="336.16087434239375"/>
+      </bar-line>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.7581555111060808" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.767987601086098" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7778196910661151" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7876517810461323" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7974838710261495" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8073159610061666" y="336.16087434239375"/>
+      </note>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8171480509861838" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.826980140966201" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.8368122309462181" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.8466443209262353" y="336.16087434239375"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8529125809397701" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8761405908662867" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.8859726808463039" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.895804770826321" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.9056368608063382" y="336.16087434239375"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9154689507863554" y="336.16087434239375"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.9351331307463897" y="336.16087434239375"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.9547973107064239" y="336.16087434239375"/>
+      </note>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9664109564731824" y="336.16087434239375"/>
+      </note>
+      <bar-line type="double-close">
+        <location location-policy="right" xpercent="1.0" y="336.16087434239375"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="double-open">
+        <location xpercent="0.0" y="403.3930492108725"/>
+      </bar-line>
+      <note accent="full" grace-note="flam" hand="right" value="crotchet">
+        <location xpercent="0.006958831353966457" y="403.3930492108725"/>
+      </note>
+      <note dot="true" grace-note="swiss" hand="left" value="quaver">
+        <location xpercent="0.05668463720692823" y="403.3930492108725"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-2" group-level="1" type="start"/>
+        <location xpercent="0.11655914914605309" y="403.3930492108725"/>
+      </note>
+      <note buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <location xpercent="0.13135875821854706" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.17575758543602893" y="403.3930492108725"/>
+      </note>
+      <note dot="true" hand="left" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.19055719450852288" y="403.3930492108725"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <location xpercent="0.23495602172600474" y="403.3930492108725"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="403.3930492108725"/>
+      </bar-line>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.25832443540547373" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.3035918881272748" y="403.3930492108725"/>
+      </note>
+      <note accent="full" dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.310630504841266" y="403.3930492108725"/>
+      </note>
+      <note accent="full" grace-note="swiss" hand="left" value="semiquaver">
+        <location xpercent="0.34847280703469985" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.37903764266360984" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.3890970766017879" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.39915651053996587" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.4092159444781438" y="403.3930492108725"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.41927537841632184" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.4393942462926779" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.4595131141690339" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4796319820453899" y="403.3930492108725"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="403.3930492108725"/>
+      </bar-line>
+      <note dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.50217795482828" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5535918881272748" y="403.3930492108725"/>
+      </note>
+      <note grace-note="flam" hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.560630504841266" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.5887999069108978" y="403.3930492108725"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.5988385339134432" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="403.3930492108725"/>
+      </note>
+      <note grace-note="drag" hand="left" value="quaver">
+        <location xpercent="0.6390762696661553" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.669275378416322" y="403.3930492108725"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.681343712099402" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.709513114169034" y="403.3930492108725"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7195517411715794" y="403.3930492108725"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="403.3930492108725"/>
+      </bar-line>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.7582989373986455" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7683240552685114" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7783491731383773" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7883742910082432" y="403.3930492108725"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.798399408878109" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8184496446178406" y="403.3930492108725"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <location xpercent="0.828419639483762" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8585501160973041" y="403.3930492108725"/>
+      </note>
+      <note grace-note="flam" hand="left" value="crotchet">
+        <location xpercent="0.8705498176437602" y="403.3930492108725"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <tie group-factor="0" group-level="1" type="start"/>
+        <location xpercent="0.9387510590562311" y="403.3930492108725"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.9588012947959628" y="403.3930492108725"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9788515305356945" y="403.3930492108725"/>
+      </note>
+      <bar-line type="single">
+        <location location-policy="right" xpercent="1.0" y="403.3930492108725"/>
+      </bar-line>
+    </staff>
+    <staff>
+      <bar-line type="single">
+        <location xpercent="0.0" y="470.62522407935126"/>
+      </bar-line>
+      <note accent="full" grace-note="flam" hand="right" value="crotchet">
+        <location xpercent="0.00217795482828006" y="470.62522407935126"/>
+      </note>
+      <note dot="true" grace-note="swiss" hand="left" value="quaver">
+        <location xpercent="0.05320535431289881" y="470.62522407935126"/>
+      </note>
+      <note buzz="true" hand="right" roll-strikes="2" value="semiquaver">
+        <tie group-factor="0" group-level="0" type="start"/>
+        <tie group-factor="-1" group-level="1" type="start"/>
+        <location xpercent="0.11394849175634283" y="470.62522407935126"/>
+      </note>
+      <note buzz="true" dot="true" hand="left" roll-strikes="2" value="quaver">
+        <tie group-level="1" type="stop"/>
+        <tie group-factor="-2" group-level="1" type="start"/>
+        <location xpercent="0.12903764266360984" y="470.62522407935126"/>
+      </note>
+      <note buzz="true" hand="left" roll-strikes="2" value="semiquaver">
+        <location xpercent="0.1743050953854109" y="470.62522407935126"/>
+      </note>
+      <note dot="true" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <tie group-level="1" type="stop"/>
+        <location xpercent="0.1893942462926779" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.23466169901447895" y="470.62522407935126"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.25" y="470.62522407935126"/>
+      </bar-line>
+      <note accent="full" dot="true" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.2521779548282801" y="470.62522407935126"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="left" value="semiquaver">
+        <location xpercent="0.29554135393399894" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.3186810390345418" y="470.62522407935126"/>
+      </note>
+      <note accent="full" grace-note="flam" hand="right" value="quaver">
+        <location xpercent="0.330749372717622" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.3589187747872538" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.37903764266360984" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.3890970766017879" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="quaver">
+        <location xpercent="0.39915651053996587" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.41927537841632184" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4293348123544999" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.4393942462926779" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.4595131141690339" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.4796319820453899" y="470.62522407935126"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.5" y="470.62522407935126"/>
+      </bar-line>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.50217795482828" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5284433032818298" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5385027372200077" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5485621711581858" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.5586216050963638" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.5686810390345418" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5787404729727198" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.5887999069108978" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.5988593408490759" y="470.62522407935126"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6051276008626106" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6290376426636098" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.6390970766017878" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.6491565105399659" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.6592159444781439" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.6692753784163219" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.6893942462926779" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.7095131141690338" y="470.62522407935126"/>
+      </note>
+      <note grace-note="flam" hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.7215814478521142" y="470.62522407935126"/>
+      </note>
+      <bar-line type="single">
+        <location xpercent="0.75" y="470.62522407935126"/>
+      </bar-line>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.7581555111060808" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.767987601086098" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7778196910661151" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.7876517810461323" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.7974838710261495" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8073159610061666" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8171480509861838" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.826980140966201" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.8368122309462181" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.8466443209262353" y="470.62522407935126"/>
+      </note>
+      <note grace-note="drag" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.8529125809397701" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.8761405908662867" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.8859726808463039" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="semiquaver">
+        <location xpercent="0.895804770826321" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="semiquaver">
+        <location xpercent="0.9056368608063382" y="470.62522407935126"/>
+      </note>
+      <note accent="full" hand="right" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9154689507863554" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-factor="3" group-level="0" type="start"/>
+        <location xpercent="0.9351331307463897" y="470.62522407935126"/>
+      </note>
+      <note hand="right" value="quaver">
+        <location xpercent="0.9547973107064239" y="470.62522407935126"/>
+      </note>
+      <note hand="left" value="quaver">
+        <tie group-level="0" type="stop"/>
+        <location xpercent="0.9744614906664583" y="470.62522407935126"/>
+      </note>
+      <bar-line type="double-close">
+        <location location-policy="right" xpercent="1.0" y="470.62522407935126"/>
+      </bar-line>
+    </staff>
+  </manuscript>
+  <manuscript force-distribution="true" id="generated-time-sig-area" lines-visible="false" point-size="18.0">
+    <bounds height="48" page="1" width="50" x="36" y="23"/>
+    <exact-bounds height="47.25" page="1" width="48.75" x="36.75" y="23.25"/>
+    <staff>
+      <time-signature bottom="4" top="4" use-common="false">
+        <location xpercent="0.33000001311302185" y="0.0"/>
+      </time-signature>
+    </staff>
+  </manuscript>
+  <image-list>
+    <image-data key="94A00759D1BAFE9F152BAC7D3E81306C">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</image-data>
+  </image-list>
+</score>

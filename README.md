@@ -41,3 +41,8 @@ This is a list of all the features that were selected when creating the sample:
  - Attach lifecycle
  - Attach statusbar
  - Attach storage
+
+### Issues Encountered
+
+ - ./mvnw is not executable
+ 

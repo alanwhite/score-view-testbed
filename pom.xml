@@ -68,6 +68,11 @@
             <artifactId>util</artifactId>
             <version>${attach.version}</version>
         </dependency>
+        <dependency>
+        	<groupId>xyz.arwhite</groupId>
+        	<artifactId>ScoreCore</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
